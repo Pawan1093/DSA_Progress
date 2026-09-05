@@ -1,4 +1,4 @@
-
+# A palindrome number is a number that stays the same when its digits are reversed
 n = 121
 origin = n
 
