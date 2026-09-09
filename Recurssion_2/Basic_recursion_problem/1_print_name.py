@@ -7,6 +7,4 @@ def names(num, count):
     print("pawan")
     names(num+1 , count)
     
-
-
 names(1, 6)
