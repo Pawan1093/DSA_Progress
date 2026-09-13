@@ -11,4 +11,4 @@ def sorted(arr, i):
 
 
 array = [12, 13, 11, 15, 17]
-sorted(array, 0)
+print(sorted(array, 0))
