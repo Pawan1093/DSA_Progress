@@ -6,9 +6,6 @@ freq = {}
 for x in arr:
     freq[x] = freq.get(x,0)+1
 
-
-
-
 # 2nd approach 
 
 for x in arr:
